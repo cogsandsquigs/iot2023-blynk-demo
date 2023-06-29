@@ -1,0 +1,5 @@
+# Ignore any and all build files.
+/target
+
+# Keep your secrets safe!
+/src/env.h
